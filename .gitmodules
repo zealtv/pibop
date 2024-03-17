@@ -1,0 +1,3 @@
+[submodule "bop"]
+	path = bop
+	url = https://github.com/zealtv/bop.git
